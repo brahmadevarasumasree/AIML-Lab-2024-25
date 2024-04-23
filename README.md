@@ -7,4 +7,5 @@
 6.Lab-06(https://github.com/brahmadevarasumasree/AIML-Lab-2024-25-Batch11/blob/main/Lab_06_2203A51039_Batch11.ipynb)  
 7.Lab-07(https://github.com/brahmadevarasumasree/AIML-Lab-2024-25-Batch11/blob/main/lab_07_2203A51039_Batch11.ipynb)  
 8.Lab-08(https://github.com/brahmadevarasumasree/AIML-Lab-2024-25-Batch11/blob/main/Lab_08_2203A51039_Batch11.ipynb)  
-9.Lab-09(https://github.com/brahmadevarasumasree/AIML-Lab-2024-25-Batch11/blob/main/Lab_09_2203A51039_Batch11.ipynb)
+9.Lab-09(https://github.com/brahmadevarasumasree/AIML-Lab-2024-25-Batch11/blob/main/Lab_09_2203A51039_Batch11.ipynb)  
+10.Lab-10(https://github.com/brahmadevarasumasree/AIML-Lab-2024-25-Batch11/blob/main/Lab_10_2203A51039_Batch11.ipynb)
